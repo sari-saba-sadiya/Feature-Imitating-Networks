@@ -8,3 +8,18 @@ Code for the paper "Feature Imitating Networks" by Sari Saba-Sadiya, Tuka Alhana
 
 ## Overview:
 A FIN is a neural network with weights that are initialized to reliably approximate one or more closed-form statistical features, such as Shannon’s entropy. This work demonstrates that FINs (and FIN ensembles) can provide best-in-class performance for a variety of downstream signal processing and inference tasks, while using less data and requiring less fine-tuning compared to other networks of similar (or even greater) representational power.
+
+<br>
+
+## Cite
+```
+@INPROCEEDINGS{FIN_ICASSP22,
+  author={S. {Saba-Sadiya} and T. {Alhanai} and M. M. {Ghassemi}},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Feature Imitating Networks}, 
+  year={2022},
+  volume={},
+  number={},
+  doi={}
+}
+```
