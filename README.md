@@ -2,7 +2,7 @@
   <div class="column"><img src="misc/fins.gif" width="100" height="100" border="1px" align="left"></div>
   <div class="column"><h1> Feature-Imitating-Networks (FINS) </h1></div>
 </div>
-Code for the paper "Feature Imitating Networks" by Sari Saba-Sadiya, Tuka Alhanai, and Mohammad M Ghassemi. FINs for going deep (learning). 
+Code for the paper ["Feature Imitating Networks"](https://github.com/sari-saba-sadiya/Feature-Imitating-Networks/blob/main/FINS_ICASSP22_arXiv.pdf) by Sari Saba-Sadiya, Tuka Alhanai, and Mohammad M Ghassemi. FINs for going deep (learning). 
 
 <br>
 
@@ -11,15 +11,24 @@ A FIN is a neural network with weights that are initialized to reliably approxim
 
 <br>
 
+## Youtube Demo
+The recorded presentation contains a theoretical part and a demo that starts at 6:25s.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TY_-wGrt3lM/0.jpg)](https://youtu.be/TY_-wGrt3lM?t=387)
+
+
+<br>
+
 ## Cite
 ```
 @INPROCEEDINGS{FIN_ICASSP22,
-  author={S. {Saba-Sadiya} and T. {Alhanai} and M. M. {Ghassemi}},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  author={Saba-Sadiya, Sari and Alhanai, Tuka and Ghassemi, Mohammad M},
+  booktitle={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Feature Imitating Networks}, 
   year={2022},
   volume={},
   number={},
-  doi={}
+  pages={4128-4132},
+  doi={10.1109/ICASSP43922.2022.9746397}
 }
+
 ```
