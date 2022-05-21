@@ -2,6 +2,7 @@
   <div class="column"><img src="misc/fins.gif" width="100" height="100" border="1px" align="left"></div>
   <div class="column"><h1> Feature-Imitating-Networks (FINS) </h1></div>
 </div>
+
 Code for the paper ["Feature Imitating Networks"](https://github.com/sari-saba-sadiya/Feature-Imitating-Networks/blob/main/FINS_ICASSP22_arXiv.pdf) by Sari Saba-Sadiya, Tuka Alhanai, and Mohammad M Ghassemi. FINs for going deep (learning). 
 
 <br>
